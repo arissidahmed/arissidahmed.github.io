@@ -1,5 +1,6 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+crosstalk is a blog about electromagnetics table talk including but not limited to :
+- electromagnetic theory
+- electromagnetic compatiblity (EMC)
+- equivalent representation and modeling of dynamic systems/devices
+- signal processing
+- power electronics
